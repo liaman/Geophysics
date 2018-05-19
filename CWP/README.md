@@ -1,3 +1,4 @@
+![CSM](CSMines_seal.png)
 # CWP-SeismicUnix-src
 Get source code from seismicunix that can be compiled separately
 
