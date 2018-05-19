@@ -1,9 +1,16 @@
 # Geophysical-data-processing-methods
 Geophysical data processing methods, Program code implementation of geophysical data processing methods, including parallel algorithms (cuda, mpich, openmp, etc.) with finite difference forward modeling, inverse time migration, and full waveform inversion
-# Content
-## FD
-## RTM
-## FWI
+# Key Words
+* FD (Finite Difference)
+* RTM (Reverse Time Migration)
+* FWI (Full Waveform Inversion)
+* mpi (mpich or openmpi)
+* cuda (NVIDIA CUDA-Toolkit, version>=7.5)
+* gtk (GIMP Toolkit, version>=2.0, such as "gtk+-2.0" or "gtk+-3.0")
+** you can find version in terminal with 
+```shell
+$ pkg-config --modeversion gtk+-2.0
+```
 ## Envrionment
 * OS: 
 linux
