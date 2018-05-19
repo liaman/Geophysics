@@ -53,3 +53,7 @@ return 0;
 ```shell
 $ mpicc -o binary.out main.c -lm -w
 ```
+## run
+```shell
+$ mpirun -n 10 binary.out 
+```
