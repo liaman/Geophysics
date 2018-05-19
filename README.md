@@ -15,6 +15,9 @@ Geophysical data processing methods, Program code implementation of geophysical 
 * TOMO (Tomography, 层析成像)
 * RayTracing (射线追踪)
 
+## Geophysical Gather Key Words-地球物理道集关键词
+* ADCIGs (Angel Domain Common Imaging Gather, 角度域共成像点道集)
+
 ## Geophysical file format Key Words-地球物理文件格式关键词
 * binary/data (裸数据)
 * SU (Seismic Unix格式文件.su)
