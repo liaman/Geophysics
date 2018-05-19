@@ -1,5 +1,5 @@
 ![中国石油大学（华东）](logo_UPC.jpg)
-<http://www.upc.edu.cn/>
+!<http://www.upc.edu.cn/>
 
 # Geophysical-data-processing-methods
 Geophysical data processing methods, Program code implementation of geophysical data processing methods, including parallel algorithms (cuda, mpich, openmp, etc.) with finite difference forward modeling, inverse time migration, and full waveform inversion
