@@ -15,6 +15,10 @@ Geophysical data processing methods, Program code implementation of geophysical 
 * TTI (a kind of anisotropic)
 * ISO (isotropic)
 
+## Geophysical Wave
+* acoustic wave (P, qP, "qSV")
+* Elastic wave (P, SH, SV)
+
 ## Geophysical Methods
 * FD (Finite Difference)
 * RTM (Reverse Time Migration)
