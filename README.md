@@ -17,6 +17,8 @@ Geophysical data processing methods, Program code implementation of geophysical 
 * software (软件)
 * GUI (Graphical User Interface, 图形用户界面)
 
+## 详情请见每个文件夹中的README.md文件
+
 ## Envrionment
 * OS: 
 linux
