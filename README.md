@@ -1,21 +1,29 @@
 # Geophysical-data-processing-methods
 Geophysical data processing methods, Program code implementation of geophysical data processing methods, including parallel algorithms (cuda, mpich, openmp, etc.) with finite difference forward modeling, inverse time migration, and full waveform inversion
 
-# Key Words
-* 2D (two dimension)
-* 3D (three dimension)
-* FD (Finite Difference)
-* RTM (Reverse Time Migration)
-* FWI (Full Waveform Inversion)
+# Geophysical Key Words-地球物理方法关键词
+* 2D (two dimension, 二维)
+* 3D (three dimension, 三维)
+* FD (Finite Difference, 有限差分)
+* RTM (Reverse Time Migration, 逆时偏移)
+* FWI (Full Waveform Inversion, 全波形反演)
 * VTI (水平横向各向同性介质, a kind of anisotropic）
 * TTI (倾斜横向各向同性介质, s kind of anisotropic)
 * ISO (各向同性介质, isotropic)
-* mpi (mpich or openmpi)
-* cuda (NVIDIA CUDA-Toolkit, version>=7.5, 多gpu线程)
-* gtk (GIMP Toolkit, version>=2.0, such as "gtk+-2.0" or "gtk+-3.0")
+* SU (Seismic Unix格式文件)
+* segy (seg-Y格式数据)
+
+# Calculation Tool Key Words-计算机关键词
+* HPC (High-performance computing, 高性能运算)
 * omp (openmp, 多cpu线程)
-* software (软件)
+* mpi (mpich or openmpi, 多核/多计算节点)
+* cuda (NVIDIA CUDA-Toolkit, version>=7.5, 多gpu线程)
+
+# GUI Tool Key Words-图形用户界面开发关键词
 * GUI (Graphical User Interface, 图形用户界面)
+* gtk (GIMP Toolkit, version>=2.0, such as "gtk+-2.0" or "gtk+-3.0")
+* Qt (Qt-Creater Toolkit, C++开发工具)
+* software (软件)
 
 ## 详情请见每个文件夹中的README.md文件
 
