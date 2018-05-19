@@ -1,1 +1,0 @@
-rungekutta法各向异性射线追踪
