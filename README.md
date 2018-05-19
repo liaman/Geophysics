@@ -5,11 +5,11 @@ Geophysical data processing methods, Program code implementation of geophysical 
 **linux**
 
 ## dependence
-* basic
+* basic: 
 gcc
-* HPC
+* HPC: 
 mpich, openmp, cuda, 
-**GUI**
+* GUI: 
 gtk, Qt, java Swing/AWT
 
 **`content`**
