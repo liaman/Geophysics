@@ -2,7 +2,9 @@
 
 
 # Geophysical-data-processing-methods
-Geophysical data processing methods, Program code implementation of geophysical data processing methods, including parallel algorithms (cuda, mpich, openmp, etc.) with finite difference forward modeling, inverse time migration, and full waveform inversion. Programming in UPC(<http://www.upc.edu.cn/>).
+Geophysical data processing methods, Program code implementation of geophysical data processing methods, including parallel algorithms (cuda, mpich, openmp, etc.) with finite difference forward modeling, inverse time migration, and full waveform inversion.
+* UPC: <http://www.upc.edu.cn/>
+* my blog: <https://blog.csdn.net/Rong_Toa>
 
 # Key Words 
 
