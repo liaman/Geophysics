@@ -2,7 +2,12 @@
 Geophysical data processing methods, Program code implementation of geophysical data processing methods, including parallel algorithms (cuda, mpich, openmp, etc.) with finite difference forward modeling, inverse time migration, and full waveform inversion
 
 ## Envrionment
-**linux**
+* OS: 
+linux
+* Compiler:
+gcc, nvcc, mpicc, javac
+* software: 
+gcc, cuda, mpich/openmpi, openmp, Qt-Creater, gtk+-2.0/3.0, JDK, 
 
 ## dependence
 * basic: 
