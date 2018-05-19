@@ -1,0 +1,12 @@
+  iflag_surface=  1
+    FN_velmodel=  vel_600_300.dat
+   FN_elevation=  step1_elevation1.txt
+             nx=  600
+       layer_nz=  300
+             dx=  2
+             dz=  2
+         s_step=  0.1
+          nray0=  180
+          nshot=  1
+         dangle=  -1.000000
+    start_angle=  180.0
