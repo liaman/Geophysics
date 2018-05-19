@@ -13,6 +13,7 @@ Geophysical data processing methods, Program code implementation of geophysical 
 * RTM (Reverse Time Migration, 逆时偏移)
 * FWI (Full Waveform Inversion, 全波形反演)
 * TOMO (Tomography, 层析成像)
+* RayTracing (射线追踪)
 
 ## Geophysical file format Key Words-地球物理文件格式关键词
 * binary/data (裸数据)
