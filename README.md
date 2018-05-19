@@ -15,8 +15,23 @@ gcc
 mpich, openmp, cuda, 
 * GUI: 
 gtk, Qt, java Swing/AWT
+#### such as 
+* to use gtk
 ```c
 #include<gtk/gtk.h>
+```
+* to use cuda
+```c
+#include<cuda_runtime.h>
+```
+* to use mpich/openmpi
+```c
+#include<mpi.h>
+```
+* to use openmp
+```c
+#include<omp.h>
+#pragma omp parallel for//such as
 ```
 ## FD-finite-difference
 * VTI（Vertical transverse isotropy）
