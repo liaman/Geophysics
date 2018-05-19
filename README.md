@@ -1,6 +1,9 @@
 # Geophysical-data-processing-methods
 Geophysical data processing methods, Program code implementation of geophysical data processing methods, including parallel algorithms (cuda, mpich, openmp, etc.) with finite difference forward modeling, inverse time migration, and full waveform inversion
-
+# Content
+##FD
+##RTM
+##FWI
 ## Envrionment
 * OS: 
 linux
@@ -38,3 +41,10 @@ gtk, Qt, java Swing/AWT
 * TTI（Inclined transversely isotropic）
 * Isotropic
 
+## RTM-reverse-time-migration
+* VTI（Vertical transverse isotropy）
+* TTI（Inclined transversely isotropic）
+* Isotropic
+
+## FWI-full-waveform-inversion
+* Isotropic
