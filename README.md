@@ -41,6 +41,8 @@ Geophysical data processing methods, Program code implementation of geophysical 
 ### Other Key Words-其他关键字
 * utils （工具)
 * mix (混合编程, mix-mpi+cuda表示mpi和cuda混合编程)
+* CWP (Seismic Unix)
+* Madagascar ()
 
 ## 详情请见每个文件夹中的README.md文件
 
