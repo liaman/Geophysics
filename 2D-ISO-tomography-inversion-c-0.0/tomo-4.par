@@ -1,0 +1,9 @@
+    FNvel_initial=  waxian_vel_1101_yyyyn1.dat
+    FNvel_uppdate=  waxian_vel_1101_yyyyn2.dat
+  FNvel_updatetxt=  waxian_vel_1101_yyyyn2.txt
+            iflag=  1
+         pro_flag=  0
+           allcdp=  1101
+               nz=  301
+             zmin=  147
+             zmax=  249

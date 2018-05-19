@@ -1,0 +1,8 @@
+  absoluteError=  1.000000E-05
+  AdjacentError=  1.000000E-04
+           nray=  41890
+             nx=  1101
+       layer_nz=  102
+          itmax=  550
+          dampx=  2000.000000
+          dampz=  2000.000000
